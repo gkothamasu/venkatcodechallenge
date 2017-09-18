@@ -1,0 +1,40 @@
+p.padding {
+	padding-left: 2cm;
+	margin-top:12px;
+	font-size:18px;
+}
+
+p.padding2 {
+	padding-left: 50%;
+}
+
+p.padding3 {
+	padding-top: 1cm;
+	margin:20px 0px 0px 20px;
+}
+
+p.padding4 {
+	padding-top: 50%;
+}
+
+ul.products li {
+	/*width: 200px;*/
+	display: inline-block;
+	text-align:center;
+	vertical-align: top;
+	*display: inline;
+	*zoom: 1;
+}
+.favCount{
+	height:40px;
+	width:40px;
+} 
+.center {
+    text-align: center;
+}
+h1{
+	text-align: center;
+}
+.row{
+	font-size:25px;
+}
